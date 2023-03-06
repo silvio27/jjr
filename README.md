@@ -1,5 +1,3 @@
-# 2023年全国演出经纪人员资格认定考试大纲 链接优化
-
 ## 思想政治与法律基础
 ### 第一部分 思想政治
 #### 一、基础知识
@@ -78,9 +76,9 @@
 ### 第二部分  法律基础
 #### 《[中华人民共和国宪法（1982年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWViODAwMzc%25) 》
 关于我国的基本制度和根本任务，基本国策，国家发展文化事业、加强社会主义精神文明建设以及公民的基本权利和义务的规定。
-《[中华人民共和国国旗法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzVlNGMxNTA0YjBmMmU%25) 》关于国旗图案，升挂国旗，使用国旗的规定。 
-《[中华人民共和国国歌法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NWY0NzBhMmQ%25) 》关于国歌名称，奏唱国歌，使用国歌的规定。
-《[中华人民共和国国徽法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNGM3OTdlZDE1ZmY%25) 》关于国徽图案，悬挂国徽，使用国徽的规定。
+- [ ] 《[中华人民共和国国旗法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzVlNGMxNTA0YjBmMmU%25) 》关于国旗图案，升挂国旗，使用国旗的规定。 
+- [ ] 《[中华人民共和国国歌法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NWY0NzBhMmQ%25) 》关于国歌名称，奏唱国歌，使用国歌的规定。
+- [ ] 《[中华人民共和国国徽法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNGM3OTdlZDE1ZmY%25) 》关于国徽图案，悬挂国徽，使用国徽的规定。
 #### 《[中华人民共和国民法典](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3MjlkMWVmZTAxNzI5ZDUwYjVjNTAwYmY%25) 》
 >《民法典》总则编关于自然人的民事权利能力,法人的定义和范围,非法人组织的定义和范围的规定。
 《民法典》合同编关于合同的订立，合同的效力，违约责任，以及买卖合同，委托合同，行纪合同的规定。
@@ -227,39 +225,75 @@
 
 ## 法律法规
 [中华人民共和国宪法（1982年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWViODAwMzc%)
+
 [中华人民共和国宪法修正案（1988年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OTQyNDAwMDU%)
+
 [中华人民共和国宪法修正案（1993年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWMwZDAwMGY%)
+
 [中华人民共和国宪法修正案（1999年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWM5ZTAwMTk%)
+
 [中华人民共和国宪法修正案（2004年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWQ0MjAwMjM%)
+
 [中华人民共和国宪法修正案（2018年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWRhODAwMmQ%)
+
 [中华人民共和国宪法（2018年修正文本）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1YTQ4MzAwNGI%)
+
 [中华人民共和国国旗法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzVlNGMxNTA0YjBmMmU%)
+
 [中华人民共和国国歌法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NWY0NzBhMmQ%)
+
 [中华人民共和国国徽法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNGM3OTdlZDE1ZmY%)
+
 [中华人民共和国民法典](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3MjlkMWVmZTAxNzI5ZDUwYjVjNTAwYmY%)
+
 [中华人民共和国税收征收管理法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3OGNmZjA3ODU%)
+
 [中华人民共和国个人所得税法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3MjRiZDA2MDk%)
+
 [中华人民共和国企业所得税法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTA2YWNkMTE3ODQ%)
+
 [中华人民共和国传染病防治法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjkzODA2Zjk%)
+
 [突发公共卫生事件应急条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGQ2ZmQzYzA2YTA%)
+
 [公共场所卫生管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTRhMjJlNDIwNWU%)
+
 [中华人民共和国突发事件应对法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY2NGM1YTAzODk%)
+
 [中华人民共和国安全生产法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YTY2YjgxNjAxN2E3OTU2YjdkYjBhZDQ%)
+
 [中华人民共和国消防法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YWIyMmUwYzAxN2FiZDkwOTMxMjA2MGE%)
+
 [中华人民共和国治安管理处罚法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NDc4ZTA2OTU%)
+
 [中华人民共和国商标法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTc2NDU0NTFiMzU%)
+
 [中华人民共和国著作权法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDc2NmJhYjE1NTc%)
+
 [中华人民共和国出境入境管理法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3M2ViZDA2NGY%)
+
 [中华人民共和国外国人入境出境管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTFiMzQ1OTE3N2M%)
+
 [关于外国人在我国旅行管理的规定](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGUxYjY4YzA5MGU%)
+
 [中华人民共和国未成年人保护法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzUzZmI5YzQ1ODEyN2I%)
+
 [中华人民共和国劳动法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMGYxNmVlMTE3Mzc%)
+
 [中华人民共和国劳动合同法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NGQ3MTA2YjM%)
+
 [中华人民共和国行政复议法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NmYxMjBhNzM%)
+
 [中华人民共和国行政诉讼法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NTg1NTBhMGY%)
+
 [中华人民共和国公司法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYxY2M5OGFkODExMzQ%)
+
 [中华人民共和国英雄烈士保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4YTM4YzBiNTk%)
+
 [中华人民共和国广告法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YWIyMzFlYjAxN2FiZDZiZDg2MDA1MmQ%)
+
 [中华人民共和国消费者权益保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjcwNjA2ZWY%)
+
 [宗教事务条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTE0ZjAzMzE1ZjE%)
+
 [营业性演出管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NzdkMDdjNTAxNzdiODU2ZjYxNTJjYWY%)
