@@ -1,4 +1,4 @@
-Update 20230306 2113
+Update 20230307 0141
 ## 思想政治与法律基础
 ### 第一部分 思想政治
 #### 一、基础知识
@@ -214,7 +214,7 @@ Update 20230306 2113
 3. 《[剧院演出安全等级分类](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EA12A6CA9393B5A8A9DE02E39631A6CF) 》（GB/T36728-2018）中危险源识别、事故等级分类、防护等级分类、隐患等级分类、危险指数评估、演出安全等级分类等内容。
 4. 《[舞台机械 刚性防火隔离幕](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C33C7E00BE7868A760B540411373124B) 》（GB36726-2018）中刚性防火隔离幕的适用范围、术语和定义、通用要求、操作与维修等内容。
 5. 《[临时搭建演出场所舞台、看台安全](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E86C2C6AF99BEB4FAC216FC12EED0585) 》（GB∕T36731-2018）中工艺安全技术要求、安全管理规范、安全操作规程等内容；《[临时搭建演出场所舞台、看台安全监督检验规范](https://zwgk.mct.gov.cn/zfxxgkml/hybz/202108/W020211129549226934719.pdf) 》(WH/T92-2021)中适用范围、术语和定义、监检与检验实施等内容。
-6. 《[演出安全 第6部分：舞美装置安全](《演出安全 第6部分：舞美装置安全》（WH/T78.6-2017）) 》（WH/T78.6-2017）中适用范围、分类、设计文件、管理规范、操作规程；《[演出安全 第7部分：舞台威亚安全](https://zwgk.mct.gov.cn/zfxxgkml/hybz/202108/W020210806621503785491.pdf) 》（WH/T78.7-2021）中适用范围、术语和定义、风险评估与风险减小、设计审查与过程监检及验收检验要求、使用与维护要求等内容。
+6. 《[演出安全 第6部分：舞美装置安全](https://www.mct.gov.cn/whzx/zxgz/wlbzhgz/201906/W020190605426583385676.pdf) 》（WH/T78.6-2017）中适用范围、分类、设计文件、管理规范、操作规程；《[演出安全 第7部分：舞台威亚安全](https://zwgk.mct.gov.cn/zfxxgkml/hybz/202108/W020210806621503785491.pdf) 》（WH/T78.7-2021）中适用范围、术语和定义、风险评估与风险减小、设计审查与过程监检及验收检验要求、使用与维护要求等内容。
 
 （二）安全管理与应急处置
 《[文化市场突发事件应急管理办法（试行）》及《文化市场突发事件应急预案（试行）](https://zwgk.mct.gov.cn/zfxxgkml/zcfg/gfxwj/202012/t20201204_906221.html) 》（文市发〔2012〕27号）中关于文化市场突发事件情形和应急处置措施。
@@ -228,6 +228,11 @@ Update 20230306 2113
 舞台艺术分类；舞台艺术专业术语。
 （三）演出市场基本情况
 中国演出市场发展新趋势、新业态；演出行业重要活动、重要奖项。
+
+<div style="display:inline-block">
+<img alt="wx" src="https://silvio27.github.io/jjr/wx.jpeg" height=200 width=200px>
+<img alt="zfb" src="https://silvio27.github.io/jjr/zfb.jpeg" height=200 width=200px>
+</div>
 
 # 其他参考内容
 [共产党员网](https://www.12371.cn/special/xg20djs/)
