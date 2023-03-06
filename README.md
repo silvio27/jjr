@@ -1,4 +1,3 @@
-Update 20230306 2050
 ## 思想政治与法律基础
 ### 第一部分 思想政治
 #### 一、基础知识
@@ -75,51 +74,51 @@ Update 20230306 2050
 8. 2022年3月以来国内外时政大事。
 
 ### 第二部分  法律基础
-#### 《[中华人民共和国宪法（1982年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWViODAwMzc%25) 》
+#### 《[中华人民共和国宪法（1982年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWViODAwMzc%3D) 》
 关于我国的基本制度和根本任务，基本国策，国家发展文化事业、加强社会主义精神文明建设以及公民的基本权利和义务的规定。
-- [ ] 《[中华人民共和国国旗法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzVlNGMxNTA0YjBmMmU%25) 》关于国旗图案，升挂国旗，使用国旗的规定。 
-- [ ] 《[中华人民共和国国歌法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NWY0NzBhMmQ%25) 》关于国歌名称，奏唱国歌，使用国歌的规定。
-- [ ] 《[中华人民共和国国徽法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNGM3OTdlZDE1ZmY%25) 》关于国徽图案，悬挂国徽，使用国徽的规定。
-#### 《[中华人民共和国民法典](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3MjlkMWVmZTAxNzI5ZDUwYjVjNTAwYmY%25) 》
+- [ ] 《[中华人民共和国国旗法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzVlNGMxNTA0YjBmMmU%3D) 》关于国旗图案，升挂国旗，使用国旗的规定。 
+- [ ] 《[中华人民共和国国歌法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NWY0NzBhMmQ%3D) 》关于国歌名称，奏唱国歌，使用国歌的规定。
+- [ ] 《[中华人民共和国国徽法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNGM3OTdlZDE1ZmY%3D) 》关于国徽图案，悬挂国徽，使用国徽的规定。
+#### 《[中华人民共和国民法典](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3MjlkMWVmZTAxNzI5ZDUwYjVjNTAwYmY%3D) 》
 >《民法典》总则编关于自然人的民事权利能力,法人的定义和范围,非法人组织的定义和范围的规定。
 《民法典》合同编关于合同的订立，合同的效力，违约责任，以及买卖合同，委托合同，行纪合同的规定。
 《民法典》人格权编关于姓名权和名称权，肖像权，名誉权和荣誉权，隐私权和个人信息保护的规定。
 《民法典》侵权责任编关于用工单位责任和劳务派遣单位、劳务用工单位责任，个人劳务关系中的侵权责任，安全保障义务人责任，损害赔偿的规定。
 #### 税收法律制度
-《[中华人民共和国税收征收管理法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3OGNmZjA3ODU%25) 》关于纳税人、扣缴义务人缴纳或者解缴税款义务的规定。
-《[中华人民共和国个人所得税法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3MjRiZDA2MDk%25) 》关于个人纳税义务的规定。
-《[中华人民共和国企业所得税法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTA2YWNkMTE3ODQ%25) 》关于企业纳税义务的规定。
+《[中华人民共和国税收征收管理法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3OGNmZjA3ODU%3D) 》关于纳税人、扣缴义务人缴纳或者解缴税款义务的规定。
+《[中华人民共和国个人所得税法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3MjRiZDA2MDk%3D) 》关于个人纳税义务的规定。
+《[中华人民共和国企业所得税法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTA2YWNkMTE3ODQ%3D) 》关于企业纳税义务的规定。
 #### 卫生法律制度
-《[中华人民共和国传染病防治法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjkzODA2Zjk%25) 》关于单位和个人在传染病防治工作中的义务的规定。 *已下载*
-《[突发公共卫生事件应急条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGQ2ZmQzYzA2YTA%25) 》关于不得隐瞒、缓报、谎报或者授意他人隐瞒、缓报、谎报突发事件，突发事件举报制度的规定。
-《[公共场所卫生管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTRhMjJlNDIwNWU%25) 》关于卫生许可证的规定。
+《[中华人民共和国传染病防治法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjkzODA2Zjk%3D) 》关于单位和个人在传染病防治工作中的义务的规定。 *已下载*
+《[突发公共卫生事件应急条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGQ2ZmQzYzA2YTA%3D) 》关于不得隐瞒、缓报、谎报或者授意他人隐瞒、缓报、谎报突发事件，突发事件举报制度的规定。
+《[公共场所卫生管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTRhMjJlNDIwNWU%3D) 》关于卫生许可证的规定。
 #### 安全法律制度
-《[突发公共卫生事件应急条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGQ2ZmQzYzA2YTA%25) 》关于单位预防突发事件义务，公共场所和其他人员密集场所的经营单位或者管理单位预防突发事件义务，突发事件信息报告义务，禁止编造、传播虚假信息的规定。
-《[中华人民共和国安全生产法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YTY2YjgxNjAxN2E3OTU2YjdkYjBhZDQ%25) 》关于生产经营单位的安全生产管理机构以及安全生产管理人员职责，生产经营单位安全检查的规定。
-《[中华人民共和国消防法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YWIyMmUwYzAxN2FiZDkwOTMxMjA2MGE%25) 》关于消防安全检查告知承诺管理，团体、企业等单位消防安全职责，消防安全许可，单位和个人火灾报警和救援义务的规定。
-《[中华人民共和国治安管理处罚法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NDc4ZTA2OTU%25) 》关于扰乱文化、体育等大型群众性活动秩序的行为及其处罚，举办大型活动违反有关规定的行为及其处罚，娱乐场、运动场等供社会公众活动的场所经营管理人员违反有关规定的行为及其处罚，恐怖、残忍表演的处罚，伪造、变造或者买卖文艺演出票等有价票证、凭证等行为的处罚，组织播放淫秽音像、组织或者进行淫秽表演、聚众淫乱以及为上述活动提供条件的违法行为及其处罚的规定。
+《[突发公共卫生事件应急条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGQ2ZmQzYzA2YTA%3D) 》关于单位预防突发事件义务，公共场所和其他人员密集场所的经营单位或者管理单位预防突发事件义务，突发事件信息报告义务，禁止编造、传播虚假信息的规定。
+《[中华人民共和国安全生产法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YTY2YjgxNjAxN2E3OTU2YjdkYjBhZDQ%3D) 》关于生产经营单位的安全生产管理机构以及安全生产管理人员职责，生产经营单位安全检查的规定。
+《[中华人民共和国消防法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YWIyMmUwYzAxN2FiZDkwOTMxMjA2MGE%3D) 》关于消防安全检查告知承诺管理，团体、企业等单位消防安全职责，消防安全许可，单位和个人火灾报警和救援义务的规定。
+《[中华人民共和国治安管理处罚法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NDc4ZTA2OTU%3D) 》关于扰乱文化、体育等大型群众性活动秩序的行为及其处罚，举办大型活动违反有关规定的行为及其处罚，娱乐场、运动场等供社会公众活动的场所经营管理人员违反有关规定的行为及其处罚，恐怖、残忍表演的处罚，伪造、变造或者买卖文艺演出票等有价票证、凭证等行为的处罚，组织播放淫秽音像、组织或者进行淫秽表演、聚众淫乱以及为上述活动提供条件的违法行为及其处罚的规定。
 #### 知识产权法律制度
-《[中华人民共和国商标法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTc2NDU0NTFiMzU%25) 》关于商标使用的管理，注册商标专用权的保护的规定。
-《[中华人民共和国著作权法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDc2NmJhYjE1NTc%25) 》关于保护客体，著作权人及其权利，著作权归属，著作权合理使用，表演者使用他人作品演出时对作品著作权人应尽义务，表演者对其表演享有的权利，职务表演的权利归属的规定。
+《[中华人民共和国商标法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTc2NDU0NTFiMzU%3D) 》关于商标使用的管理，注册商标专用权的保护的规定。
+《[中华人民共和国著作权法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDc2NmJhYjE1NTc%3D) 》关于保护客体，著作权人及其权利，著作权归属，著作权合理使用，表演者使用他人作品演出时对作品著作权人应尽义务，表演者对其表演享有的权利，职务表演的权利归属的规定。
 #### 外国人在中国就业法律制度
-《[中华人民共和国出境入境管理法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3M2ViZDA2NGY%25) 》
-《[中华人民共和国外国人入境出境管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTFiMzQ1OTE3N2M%25) 》
-《[关于外国人在我国旅行管理的规定](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGUxYjY4YzA5MGU%25) 》关于外国人入境出境、停留居留、调查和遣返，外国人及外国人在中国就业的定义，就业许可申请与审批，劳动管理，不予签发签证的情形，外国人不准入境的情形的规定。
+《[中华人民共和国出境入境管理法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3M2ViZDA2NGY%3D) 》
+《[中华人民共和国外国人入境出境管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTFiMzQ1OTE3N2M%3D) 》
+《[关于外国人在我国旅行管理的规定](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGUxYjY4YzA5MGU%3D) 》关于外国人入境出境、停留居留、调查和遣返，外国人及外国人在中国就业的定义，就业许可申请与审批，劳动管理，不予签发签证的情形，外国人不准入境的情形的规定。
 #### 未成年人保护法律制度
-《[中华人民共和国未成年人保护法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzUzZmI5YzQ1ODEyN2I%25) 》关于国家鼓励创作、出版、制作和传播有利于未成年人健康成长的作品，禁止制作、复制、出版、发布、传播危害未成年人身心健康内容的作品，作品包含可能影响未成年人身心健康内容的分类提示，禁止招用童工和对未成年工进行特殊保护的规定。
+《[中华人民共和国未成年人保护法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzUzZmI5YzQ1ODEyN2I%3D) 》关于国家鼓励创作、出版、制作和传播有利于未成年人健康成长的作品，禁止制作、复制、出版、发布、传播危害未成年人身心健康内容的作品，作品包含可能影响未成年人身心健康内容的分类提示，禁止招用童工和对未成年工进行特殊保护的规定。
 #### 劳动者合法权益保障法律制度
-《[中华人民共和国劳动法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMGYxNmVlMTE3Mzc%25) 》关于工作时间和休息休假，工资，劳动安全卫生，女职工和未成年工特殊保护，职业培训，社会保险和福利和劳动争议的规定。
-《[中华人民共和国劳动合同法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NGQ3MTA2YjM%25) 》劳动合同的订立，履行和变更，解除和终止；集体合同、劳务派遣和非全日制用工等特别规定。
+《[中华人民共和国劳动法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMGYxNmVlMTE3Mzc%3D) 》关于工作时间和休息休假，工资，劳动安全卫生，女职工和未成年工特殊保护，职业培训，社会保险和福利和劳动争议的规定。
+《[中华人民共和国劳动合同法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NGQ3MTA2YjM%3D) 》劳动合同的订立，履行和变更，解除和终止；集体合同、劳务派遣和非全日制用工等特别规定。
 #### 行政复议和行政诉讼法律制度
-《[中华人民共和国行政复议法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NmYxMjBhNzM%25) 》关于行政复议范围、程序等内容。
-《[中华人民共和国行政诉讼法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NTg1NTBhMGY%25) 》关于受案范围与管辖的相关内容。
+《[中华人民共和国行政复议法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NmYxMjBhNzM%3D) 》关于行政复议范围、程序等内容。
+《[中华人民共和国行政诉讼法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NTg1NTBhMGY%3D) 》关于受案范围与管辖的相关内容。
 #### 公司规范法律制度
-《[中华人民共和国公司法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYxY2M5OGFkODExMzQ%25) 》关于公司的设立，公司形式变更，职工权益保护与职业教育，股东会职权，董事会职权的相关内容。
+《[中华人民共和国公司法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYxY2M5OGFkODExMzQ%3D) 》关于公司的设立，公司形式变更，职工权益保护与职业教育，股东会职权，董事会职权的相关内容。
 #### 其他相关法律制度
-《[中华人民共和国英雄烈士保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4YTM4YzBiNTk%25) 》关于烈士的历史功勋，弘扬传承英雄烈士精神，英雄烈士名誉荣誉法律保护的规定；
-《[中华人民共和国广告法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YWIyMzFlYjAxN2FiZDZiZDg2MDA1MmQ%25) 》关于禁止虚假广告和广告主对广告内容的真实性负责，广告表述应当准确、清楚、明白，广告内容的禁止性情形，广告在未成年人和残疾人保护方面的特殊要求的规定。
-《[中华人民共和国消费者权益保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjcwNjA2ZWY%25) 》关于经营者与消费者交易遵循的原则，经营者的义务，经营者使用格式条款所承担的义务的规定；
-《[宗教事务条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTE0ZjAzMzE1ZjE%25) 》关于不得利用宗教损害国家利益、社会公共利益和公民合法权益等的规定。
+《[中华人民共和国英雄烈士保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4YTM4YzBiNTk%3D) 》关于烈士的历史功勋，弘扬传承英雄烈士精神，英雄烈士名誉荣誉法律保护的规定；
+《[中华人民共和国广告法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YWIyMzFlYjAxN2FiZDZiZDg2MDA1MmQ%3D) 》关于禁止虚假广告和广告主对广告内容的真实性负责，广告表述应当准确、清楚、明白，广告内容的禁止性情形，广告在未成年人和残疾人保护方面的特殊要求的规定。
+《[中华人民共和国消费者权益保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjcwNjA2ZWY%3D) 》关于经营者与消费者交易遵循的原则，经营者的义务，经营者使用格式条款所承担的义务的规定；
+《[宗教事务条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTE0ZjAzMzE1ZjE%3D) 》关于不得利用宗教损害国家利益、社会公共利益和公民合法权益等的规定。
 
 ---
 ##  演出市场政策和经纪实务
@@ -127,7 +126,7 @@ Update 20230306 2050
 一、《营业性演出管理条例》《营业性演出管理条例实施细则》
 
 （一）演出市场基本概念
-《[营业性演出管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NzdkMDdjNTAxNzdiODU2ZjYxNTJjYWY%25) 》《[营业性演出管理条例实施细则](http://www.gov.cn/zhengce/2022-05/13/content_5712511.htm) 》（以下简称《条例》《细则》）的适用范围。营业性演出的主管部门。营业性演出应当坚持的原则；营业性演出的概念和具体形式；文艺表演团体、演出经纪机构、演出场所经营单位的概念、业务范围等。
+《[营业性演出管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NzdkMDdjNTAxNzdiODU2ZjYxNTJjYWY%3D) 》《[营业性演出管理条例实施细则](http://www.gov.cn/zhengce/2022-05/13/content_5712511.htm) 》（以下简称《条例》《细则》）的适用范围。营业性演出的主管部门。营业性演出应当坚持的原则；营业性演出的概念和具体形式；文艺表演团体、演出经纪机构、演出场所经营单位的概念、业务范围等。
 
 （二）营业性演出主体设立审批规定
 1. 文艺表演团体
@@ -225,76 +224,76 @@ Update 20230306 2050
 [共产党员网](https://www.12371.cn/special/xg20djs/)
 
 ## 法律法规
-[中华人民共和国宪法（1982年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWViODAwMzc%)
+[中华人民共和国宪法（1982年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWViODAwMzc%3D)
 
-[中华人民共和国宪法修正案（1988年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OTQyNDAwMDU%)
+[中华人民共和国宪法修正案（1988年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OTQyNDAwMDU%3D)
 
-[中华人民共和国宪法修正案（1993年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWMwZDAwMGY%)
+[中华人民共和国宪法修正案（1993年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWMwZDAwMGY%3D)
 
-[中华人民共和国宪法修正案（1999年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWM5ZTAwMTk%)
+[中华人民共和国宪法修正案（1999年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWM5ZTAwMTk%3D)
 
-[中华人民共和国宪法修正案（2004年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWQ0MjAwMjM%)
+[中华人民共和国宪法修正案（2004年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWQ0MjAwMjM%3D)
 
-[中华人民共和国宪法修正案（2018年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWRhODAwMmQ%)
+[中华人民共和国宪法修正案（2018年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWRhODAwMmQ%3D)
 
-[中华人民共和国宪法（2018年修正文本）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1YTQ4MzAwNGI%)
+[中华人民共和国宪法（2018年修正文本）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1YTQ4MzAwNGI%3D)
 
-[中华人民共和国国旗法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzVlNGMxNTA0YjBmMmU%)
+[中华人民共和国国旗法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzVlNGMxNTA0YjBmMmU%3D)
 
-[中华人民共和国国歌法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NWY0NzBhMmQ%)
+[中华人民共和国国歌法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NWY0NzBhMmQ%3D)
 
-[中华人民共和国国徽法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNGM3OTdlZDE1ZmY%)
+[中华人民共和国国徽法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNGM3OTdlZDE1ZmY%3D)
 
-[中华人民共和国民法典](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3MjlkMWVmZTAxNzI5ZDUwYjVjNTAwYmY%)
+[中华人民共和国民法典](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3MjlkMWVmZTAxNzI5ZDUwYjVjNTAwYmY%3D)
 
-[中华人民共和国税收征收管理法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3OGNmZjA3ODU%)
+[中华人民共和国税收征收管理法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3OGNmZjA3ODU%3D)
 
-[中华人民共和国个人所得税法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3MjRiZDA2MDk%)
+[中华人民共和国个人所得税法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3MjRiZDA2MDk%3D)
 
-[中华人民共和国企业所得税法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTA2YWNkMTE3ODQ%)
+[中华人民共和国企业所得税法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTA2YWNkMTE3ODQ%3D)
 
-[中华人民共和国传染病防治法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjkzODA2Zjk%)
+[中华人民共和国传染病防治法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjkzODA2Zjk%3D)
 
-[突发公共卫生事件应急条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGQ2ZmQzYzA2YTA%)
+[突发公共卫生事件应急条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGQ2ZmQzYzA2YTA%3D)
 
-[公共场所卫生管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTRhMjJlNDIwNWU%)
+[公共场所卫生管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTRhMjJlNDIwNWU%3D)
 
-[中华人民共和国突发事件应对法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY2NGM1YTAzODk%)
+[中华人民共和国突发事件应对法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY2NGM1YTAzODk%3D)
 
-[中华人民共和国安全生产法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YTY2YjgxNjAxN2E3OTU2YjdkYjBhZDQ%)
+[中华人民共和国安全生产法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YTY2YjgxNjAxN2E3OTU2YjdkYjBhZDQ%3D)
 
-[中华人民共和国消防法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YWIyMmUwYzAxN2FiZDkwOTMxMjA2MGE%)
+[中华人民共和国消防法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YWIyMmUwYzAxN2FiZDkwOTMxMjA2MGE%3D)
 
-[中华人民共和国治安管理处罚法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NDc4ZTA2OTU%)
+[中华人民共和国治安管理处罚法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NDc4ZTA2OTU%3D)
 
-[中华人民共和国商标法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTc2NDU0NTFiMzU%)
+[中华人民共和国商标法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMTc2NDU0NTFiMzU%3D)
 
-[中华人民共和国著作权法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDc2NmJhYjE1NTc%)
+[中华人民共和国著作权法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTJiN2Q0MzAxNzVlNDc2NmJhYjE1NTc%3D)
 
-[中华人民共和国出境入境管理法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3M2ViZDA2NGY%)
+[中华人民共和国出境入境管理法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3M2ViZDA2NGY%3D)
 
-[中华人民共和国外国人入境出境管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTFiMzQ1OTE3N2M%)
+[中华人民共和国外国人入境出境管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTFiMzQ1OTE3N2M%3D)
 
-[关于外国人在我国旅行管理的规定](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGUxYjY4YzA5MGU%)
+[关于外国人在我国旅行管理的规定](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MGUxYjY4YzA5MGU%3D)
 
-[中华人民共和国未成年人保护法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzUzZmI5YzQ1ODEyN2I%)
+[中华人民共和国未成年人保护法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NTI2NWRkNDAxNzUzZmI5YzQ1ODEyN2I%3D)
 
-[中华人民共和国劳动法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMGYxNmVlMTE3Mzc%)
+[中华人民共和国劳动法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYyMGYxNmVlMTE3Mzc%3D)
 
-[中华人民共和国劳动合同法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NGQ3MTA2YjM%)
+[中华人民共和国劳动合同法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NGQ3MTA2YjM%3D)
 
-[中华人民共和国行政复议法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NmYxMjBhNzM%)
+[中华人民共和国行政复议法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NmYxMjBhNzM%3D)
 
-[中华人民共和国行政诉讼法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NTg1NTBhMGY%)
+[中华人民共和国行政诉讼法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4NTg1NTBhMGY%3D)
 
-[中华人民共和国公司法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYxY2M5OGFkODExMzQ%)
+[中华人民共和国公司法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjEzNWY0NjAxNmYxY2M5OGFkODExMzQ%3D)
 
-[中华人民共和国英雄烈士保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4YTM4YzBiNTk%)
+[中华人民共和国英雄烈士保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY4YTM4YzBiNTk%3D)
 
-[中华人民共和国广告法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YWIyMzFlYjAxN2FiZDZiZDg2MDA1MmQ%)
+[中华人民共和国广告法](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3YWIyMzFlYjAxN2FiZDZiZDg2MDA1MmQ%3D)
 
-[中华人民共和国消费者权益保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjcwNjA2ZWY%)
+[中华人民共和国消费者权益保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjcwNjA2ZWY%3D)
 
-[宗教事务条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTE0ZjAzMzE1ZjE%)
+[宗教事务条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTE0ZjAzMzE1ZjE%3D)
 
-[营业性演出管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NzdkMDdjNTAxNzdiODU2ZjYxNTJjYWY%)
+[营业性演出管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NzdkMDdjNTAxNzdiODU2ZjYxNTJjYWY%3D)
