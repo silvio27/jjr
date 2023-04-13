@@ -1,7 +1,17 @@
-Update 20230310 0715
+Update 20230413 1028
+
+# 要删我的麻烦有礼貌的说一声，不要占着我的微信位置
+# 要删我的麻烦有礼貌的说一声，不要占着我的微信位置
+# 要删我的麻烦有礼貌的说一声，不要占着我的微信位置
+
 ## 思想政治与法律基础
-### 第一部分 思想政治
+###  第一部分 思想政治
+
+<details>
+<summary>点开</summary>
+	
 #### 一、基础知识
+	
 1. 习近平新时代中国特色社会主义思想的科学内涵和核心要义，习近平新时代中国特色社会主义思想的重要历史地位。
 2. 党的二十大精神，[党的二十大的重大意义](http://www.mofcom.gov.cn/article/zt_20thCPC/zywz/202211/20221103366902.shtml) 。
 3. “两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”的重要意义。
@@ -36,7 +46,7 @@ Update 20230310 0715
 7. 社会主义核心价值观的基本内容，培育和践行社会主义核心价值观的重要意义。[出处](http://www.gov.cn/zhengce/2013-12/23/content_5407875.htm)
 
 8. 习近平总书记关于构建人类命运共同体、弘扬人类共同价值的重要论述。[出处](http://www.gov.cn/xinwen/2022-10/16/content_5718834.htm)
-
+	
 #### 二、文化工作方针政策
 1. 习近平总书记关于文化和文艺工作的重要论述，习近平总书记
 	《[在文艺工作座谈会上的讲话](http://jhsjk.people.cn/article/27699249) 》
@@ -73,8 +83,15 @@ Update 20230310 0715
 6. 《[中共中央关于党的百年奋斗重大成就和历史经验的决议](http://www.gov.cn/zhengce/2021-11/16/content_5651269.htm) 》重要精神。[说明](http://www.gov.cn/xinwen/2021-11/16/content_5651271.htm)
 7. 其他参考：[“四史”学习教育 新中国史](https://m.thepaper.cn/baijiahao_11869965)
 8. 2022年3月以来国内外时政大事。 **欢迎供稿**
+	
+</details>
 
 ### 第二部分  法律基础
+
+<details>
+<summary>点开</summary>
+<br/>
+
 #### 《[中华人民共和国宪法（1982年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWViODAwMzc%3D) 》
 关于我国的基本制度和根本任务，基本国策，国家发展文化事业、加强社会主义精神文明建设以及公民的基本权利和义务的规定。
 
@@ -129,9 +146,16 @@ Update 20230310 0715
 《[中华人民共和国消费者权益保护法](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY3NjcwNjA2ZWY%3D) 》关于经营者与消费者交易遵循的原则，经营者的义务，经营者使用格式条款所承担的义务的规定；
 《[宗教事务条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTE0ZjAzMzE1ZjE%3D) 》关于不得利用宗教损害国家利益、社会公共利益和公民合法权益等的规定。
 
+</details>
+	
 ---
 ##  演出市场政策和经纪实务
 ### 第一部分  演出市场政策
+
+<details>
+<summary>点开</summary>
+<br/>
+
 一、《营业性演出管理条例》《营业性演出管理条例实施细则》
 
 （一）演出市场基本概念
@@ -181,7 +205,14 @@ Update 20230310 0715
 《[文化和旅游市场信用管理规定](http://www.gov.cn/zhengce/zhengceku/2021-11/16/content_5651192.htm) 》（文化和旅游部令第7号）的适用范围，失信主体认定情形，文化市场失信主体管理措施，信用信息公开与共享，信用修复等有关规定。
 《[文化和旅游部办公厅关于印发〈文化和旅游市场信用修复工作指南〉的通知](http://www.gov.cn/zhengce/zhengceku/2022-11/22/content_5728220.htm) 》（办市场发〔2022〕172号）中对信用修复工作的总体要求，开展信用修复的工作流程、申请材料及信用修复培训有关规定。
 
+</details>
+
 ### 第二部分 演出经纪实务
+<details>
+<summary>点开</summary>
+<br/>
+	
+
 
 一、演出经纪人员
 《[演出经纪人员管理办法](https://zwgk.mct.gov.cn/zfxxgkml/scgl/202112/t20211224_930039.html) 》（文旅市场发〔2021〕129号）出台的背景；演出经纪活动的概念和范畴；演出经纪人员资质认定条件、认定程序等，演出经纪人员资格认定考试制度有关规定；演出经纪人员执业规范；对演出经纪人员、演出经纪机构的监督管理措施。
@@ -218,6 +249,8 @@ Update 20230310 0715
 《[文化部关于落实安全生产责任加强文化市场安全生产工作的通知](https://zwgk.mct.gov.cn/zfxxgkml/zcfg/gfxwj/202208/t20220819_935429.html) 》（文市发〔2017〕5号）中文化市场经营主体安全生产主体责任。
 《[应急管理部关于贯彻实施新修改〈中华人民共和国消防法〉全面实行公众聚集场所投入使用营业前消防安全检查告知承诺管理的通知](https://www.mem.gov.cn/gk/zfxxgkpt/fdzdgknr/202107/t20210712_391764.shtml) 》（应急〔2021〕34号）中关于公众聚集场所投入使用、营业前消防安全检查告知承诺管理制度的基本内容。
 
+</details>
+	
 # 后面的链接还没找
 
 五、文学艺术基础知识和演出市场概况
@@ -237,6 +270,10 @@ Update 20230310 0715
 [共产党员网](https://www.12371.cn/special/xg20djs/)
 
 ## 法律法规
+
+<details><summary>点开查看全部</summary>
+<br/>
+	
 [中华人民共和国宪法（1982年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OWViODAwMzc%3D)
 
 [中华人民共和国宪法修正案（1988年）](https://flk.npc.gov.cn/detail2.html?MmM5MDlmZGQ2NzhiZjE3OTAxNjc4YmY1OTQyNDAwMDU%3D)
@@ -310,3 +347,5 @@ Update 20230310 0715
 [宗教事务条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE2ZjNjYmIzYzAxNmY0MTE0ZjAzMzE1ZjE%3D)
 
 [营业性演出管理条例](https://flk.npc.gov.cn/detail2.html?ZmY4MDgwODE3NzdkMDdjNTAxNzdiODU2ZjYxNTJjYWY%3D)
+
+</details>
